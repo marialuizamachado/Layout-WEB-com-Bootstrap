@@ -1,0 +1,21 @@
+.nav-link a{
+    color: #000;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 10px;
+    margin-left: 0px -10px;
+}
+.nav-link a:hover{
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
+#p-dif{
+    columns: 3;
+    gap: 30px;
+}
+section{
+    border-radius: 10px;
+}
+section div{
+    border-radius: 10px;
+}
